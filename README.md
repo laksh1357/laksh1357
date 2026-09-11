@@ -25,13 +25,10 @@ B.Tech CSE (Data Science) @ Vellore Institute of Technology | Aspiring Software 
 
 I am a **Computer Science & Engineering undergraduate specializing in Data Science at Vellore Institute of Technology, Vellore**, with a strong interest in **software development, data-driven problem solving, and system design**.
 
-- 🎓 **Department Rank 6** in B.Tech CSE (Data Science)
 - 💡 **Core Interests:** System Architecture, Data Engineering, Networking Protocols, and Generative AI
 - 🏆 **Hackathons:** VIT Code to Innovate Contributor
 - 📍 **Based in:** Barabanki, Uttar Pradesh / Vellore, Tamil Nadu
 - 🚀 Passionate about building practical solutions and continuously improving my technical skills
-
-> **Learn. Build. Analyze. Solve. Evolve.**
 
 ---
 
@@ -83,7 +80,7 @@ I am a **Computer Science & Engineering undergraduate specializing in Data Scien
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -120,7 +117,7 @@ An end-to-end data analytics dashboard tracking sales metrics, KPIs, and regiona
 
 ### 🎓 Student Result Management System
 
-A robust desktop application for managing student academic records, GPA calculation, and grade distributions with relational persistence.
+A desktop application for managing student academic records, GPA calculation, and grade distributions with relational persistence.
 
 **Tech:** `C++` `Oracle SQL` `Database Design` `OOP`
 
@@ -132,7 +129,7 @@ A robust desktop application for managing student academic records, GPA calculat
 
 ### 💻 Developer Portfolio Website
 
-A responsive, lightweight developer portfolio showcasing technical projects, coursework, and technical writings.
+A responsive developer portfolio showcasing technical projects, coursework, and technical writings.
 
 **Tech:** `JavaScript` `HTML5` `CSS3` `Vercel`
 
@@ -145,16 +142,15 @@ A responsive, lightweight developer portfolio showcasing technical projects, cou
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-- 🎓 **Department Rank 6** — B.Tech CSE (Data Science), VIT Vellore
 - 🏆 **VIT Code to Innovate Contributor** — Built privacy-preserving Web3 architecture concepts
 - 💻 Active Data Structures & Algorithms problem solver across LeetCode & platform contests
 - 🚀 Building scalable systems in C++, Python, and relational databases
 
 ---
 
-# 💻 Problem Solving
+## 💻 Problem Solving
 
 <p align="center">
   <a href="YOUR_LEETCODE_URL">
@@ -169,7 +165,7 @@ A responsive, lightweight developer portfolio showcasing technical projects, cou
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
@@ -178,15 +174,7 @@ A responsive, lightweight developer portfolio showcasing technical projects, cou
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
@@ -194,7 +182,7 @@ A responsive, lightweight developer portfolio showcasing technical projects, cou
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
@@ -223,38 +211,3 @@ A responsive, lightweight developer portfolio showcasing technical projects, cou
 
 </tr>
 </table>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA%20in%20C++-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-27AE60?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-E74C3C?style=for-the-badge"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <h3>🚀 Learn. Build. Analyze. Solve. Evolve.</h3>
-  <i>"Small steps every day lead to big results."</i>
-</p>
