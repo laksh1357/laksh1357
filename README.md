@@ -1,23 +1,35 @@
-<h1 align="center">Hi 👋, I'm Lakshya Singh</h1>
-<h3 align="center">⚡ Full Stack Engineer | UI Specialist ⚡</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,2,25,27&height=220&section=header&text=Lakshya%20Singh&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20UI%2FUX%20Specialist&descAlignY=62&descAlign=50" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vcenter=true&width=600&lines=Building+Next-Gen+Web+Apps;Crafting+Interactive+Interfaces;Focused+on+Performance+%26+Design" alt="Typing SVG" />
+  <a href="https://github.com/laksh1357">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00DFD8&center=true&vcenter=true&width=650&lines=Crafting+Pixel-Perfect+Web+Experiences;Full+Stack+Developer+%7C+UI%2FUX+Engineer;Building+Interactive+JS+Applications;Turning+Complex+Ideas+Into+Clean+Code" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/laksh1357">
+    <img src="https://komarev.com/ghpvc/?username=laksh1357&label=PROFILE+VIEWS&color=7928ca&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/laksh1357">
+    <img src="https://img.shields.io/github/followers/laksh1357?label=FOLLOWERS&style=for-the-badge&color=0070f3&logo=github" />
+  </a>
+</p>
+
+<br/>
 
 ---
 
-### 🛠️ Tech Stack
+## 💫 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,git,github,vscode,vercel&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laksh1357&show_icons=true&theme=radium&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laksh1357&layout=compact&theme=radium&hide_border=true" />
-</p>
+```javascript
+const developer = {
+  name: "Lakshya Singh",
+  title: "Full Stack Engineer & UI Craftsman",
+  location: "India 🇮🇳",
+  passions: ["Web Architecture", "Modern UIs", "Performance Optimization", "Open Source"],
+  currentFocus: "Building high-impact full-stack web applications & SaaS dashboards",
+  architecture: "Clean Code • Modular Components • Responsive Glassmorphism Design",
+  quote: "First, solve the problem. Then, write the code."
+};
