@@ -1,88 +1,85 @@
-<h1 align="center">Hi, I'm Lakshya Singh 👋</h1>
+<h1 align="center">Hi 👋, I'm Lakshya Singh</h1>
 
 <h3 align="center">
-B.Tech CSE (Data Science) @ Vellore Institute of Technology | Software Engineer & Data Enthusiast
+B.Tech CSE (Data Science) @ Vellore Institute of Technology | Aspiring Software Engineer & Data Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Computer Science & Engineering undergraduate specializing in **Data Science** at **Vellore Institute of Technology, Vellore**. I focus on low-level systems programming, data structures & algorithms, and end-to-end data analytics solutions.
+I am a **Computer Science & Engineering undergraduate specializing in Data Science at Vellore Institute of Technology, Vellore**, with a strong interest in **software development, data-driven problem solving, and system design**.
 
 - 🎓 **Department Rank 6** in B.Tech CSE (Data Science)
 - 💡 **Core Interests:** System Architecture, Data Engineering, Networking Protocols, and Generative AI
-- 🏆 **Hackathons:** VIT Code to Innovate Contributor; designed decentralized health data and network tools
-- 📍 Based in **Barabanki, Uttar Pradesh / Vellore, Tamil Nadu**
+- 🏆 **Hackathons:** VIT Code to Innovate Contributor
+- 📍 **Based in:** Barabanki, Uttar Pradesh / Vellore, Tamil Nadu
+- 🚀 Passionate about building practical solutions and continuously improving my technical skills
 
-> 🚀 **Learn. Build. Analyze. Solve. Evolve.**
+> **Learn. Build. Analyze. Solve. Evolve.**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<table>
-<tr>
+### 💻 Programming Languages
 
-<td valign="top" width="25%">
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### 💻 Languages
+### 🧠 Core Computer Science
 
-- C / C++
-- Python
-- Java
-- JavaScript
-- SQL
+<p>
+  <img src="https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-6C5CE7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Theory%20of%20Computation-8E44AD?style=for-the-badge"/>
+</p>
 
-</td>
+### 📊 Data Science & AI
 
-<td valign="top" width="25%">
-
-### 🧠 Core CS
-
-- Data Structures & Algorithms
-- Database Management (DBMS)
-- Computer Networks
-- Operating Systems
-- Theory of Computation
-- Computer Architecture
-
-</td>
-
-<td valign="top" width="25%">
-
-### 📊 Data & Databases
-
-- Pandas & NumPy
-- Matplotlib & Data Viz
-- Oracle SQL
-- SQLite
-- Generative AI & Prompt Eng.
-
-</td>
-
-<td valign="top" width="25%">
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F39C12?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-E74C3C?style=for-the-badge"/>
+</p>
 
 ### 🔧 Tools & Platforms
 
-- Git & GitHub
-- Linux / Bash
-- VS Code
-- Vercel
-
-</td>
-
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
@@ -93,14 +90,13 @@ I am a Computer Science & Engineering undergraduate specializing in **Data Scien
 
 <td width="50%" valign="top">
 
-### 🔍 Network Monitoring & Discovery Tool
+### 🌐 Network Monitoring & Device Discovery
 
-Multi-threaded local subnet scanner capturing real-time host states, port metrics, and telemetry data.
+A network tool using socket programming and SQLite to discover active devices, scan open ports, and monitor device health metrics across local subnets.
 
-- **Stack:** `Python` `Socket Programming` `SQLite` `Networking`
-- Implemented concurrent IP sweeping and packet inspection.
+**Tech:** `Python` `Socket Programming` `SQLite` `Networking`
 
-[View Project →](https://github.com/lakshyasingh/network-monitor)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/network-monitoring-tool">View Project →</a>
 
 </td>
 
@@ -108,12 +104,11 @@ Multi-threaded local subnet scanner capturing real-time host states, port metric
 
 ### 📊 Sales Data Analytics Dashboard
 
-Data ingestion and visualization dashboard surfacing trends, revenue velocity, and regional breakdowns.
+An end-to-end data analytics dashboard tracking sales metrics, KPIs, and regional trends with interactive charts and automated database reporting.
 
-- **Stack:** `Python` `Pandas` `Oracle SQL` `Matplotlib`
-- Streamlined complex multi-table SQL queries into automated visual reports.
+**Tech:** `Python` `Pandas` `Oracle SQL` `Matplotlib`
 
-[View Project →](https://github.com/lakshyasingh/sales-analytics)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/sales-data-analytics">View Project →</a>
 
 </td>
 
@@ -125,25 +120,23 @@ Data ingestion and visualization dashboard surfacing trends, revenue velocity, a
 
 ### 🎓 Student Result Management System
 
-Desktop-grade records engine with ACID transaction support, custom reporting, and automated grade calculation.
+A robust desktop application for managing student academic records, GPA calculation, and grade distributions with relational persistence.
 
-- **Stack:** `C++` `Oracle SQL` `OOP`
-- Built robust schema relationships with optimized record retrieval.
+**Tech:** `C++` `Oracle SQL` `Database Design` `OOP`
 
-[View Project →](https://github.com/lakshyasingh/student-result-system)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/student-result-management">View Project →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌐 Personal Developer Portfolio
+### 💻 Developer Portfolio Website
 
-Modern, lightweight personal portfolio engineered with responsive layout principles and instant static deployments.
+A responsive, lightweight developer portfolio showcasing technical projects, coursework, and technical writings.
 
-- **Stack:** `JavaScript` `HTML5` `CSS3` `Vercel`
-- Optimized performance, asset delivery, and accessibility score.
+**Tech:** `JavaScript` `HTML5` `CSS3` `Vercel`
 
-[Live Demo →](https://github.com/lakshyasingh/portfolio)
+<a href="https://github.com/YOUR_GITHUB_USERNAME/portfolio">View Project →</a>
 
 </td>
 
@@ -152,47 +145,116 @@ Modern, lightweight personal portfolio engineered with responsive layout princip
 
 ---
 
-# 📊 GitHub Analytics
+# 🏆 Achievements
+
+- 🎓 **Department Rank 6** — B.Tech CSE (Data Science), VIT Vellore
+- 🏆 **VIT Code to Innovate Contributor** — Built privacy-preserving Web3 architecture concepts
+- 💻 Active Data Structures & Algorithms problem solver across LeetCode & platform contests
+- 🚀 Building scalable systems in C++, Python, and relational databases
+
+---
+
+# 💻 Problem Solving
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
+- 🧩 Practicing Data Structures & Algorithms (Trees, Graphs, DP, System Design fundamentals)
+- ⚡ Focusing on optimal time & space complexities
+- 🧠 Strengthening algorithmic problem solving across C++ and Python
+- 📈 Consistently participating in programming challenges
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
 # 🎯 Current Focus
 
-- ⚡ **Algorithmic Problem Solving:** Optimizing graph, tree, and dynamic programming patterns in C++
-- 🛠️ **Systems & Backend:** Socket-level networking, database indexing, and performance tuning
-- 🤖 **AI Exploration:** Implementing prompt engineering workflows and practical LLM integrations
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Data Science & AI
+
+- Exploratory Data Analysis & Feature Engineering
+- Classical Machine Learning & Statistical Modeling
+- Relational Database Normalization & Query Tuning
+- Generative AI & Prompt Engineering
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Data Structures & Algorithms in C++
+- Low-Level System Design & OOP Principles
+- Socket Programming & Computer Networking Protocols
+- Operating Systems & Database Internals
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20in%20C++-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-E74C3C?style=for-the-badge"/>
+</p>
 
 ---
 
 # 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_LEETCODE_URL">
+    <img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
+  <h3>🚀 Learn. Build. Analyze. Solve. Evolve.</h3>
   <i>"Small steps every day lead to big results."</i>
 </p>
